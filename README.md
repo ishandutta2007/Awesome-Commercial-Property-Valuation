@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Commercial-Property-Valuation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commercial-Property-Valuation?style=social" alt="GitHub stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Commercial-Property-Valuation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Commercial-Property-Valuation?style=social" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commercial-Property-Valuation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Commercial-Property-Valuation?style=social" alt="GitHub forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Commercial-Property-Valuation/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Commercial-Property-Valuation" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -45,7 +45,7 @@ Commercial property valuation software enables appraisers, commercial real estat
 
 ## 🔓 Open-Source GitHub Projects
 
-> **Star Count Benchmark:** Sorted by GitHub Star Count (Descending). Click any star badge to inspect the stargazers page! 🌟
+> **Stars_Count Benchmark:** Sorted by GitHub Stars_Count (Descending). Click any Stars_Badge to inspect the stargazers page! 🌟
 
 ### 🛠️ DCF Modeling, AVM Engines, AI Agents & Data Standards
 
@@ -107,7 +107,7 @@ Commercial property valuation software enables appraisers, commercial real estat
 
 1. **Fork the Repository** 🍴
 2. **Add or Edit Entries** in `README.md` following the tabular or bullet format.
-3. **Ensure Accuracy**: Provide exact links, license information, star counts, or starting subscription pricing.
+3. **Ensure Accuracy**: Provide exact links, license information, Stars_Counts, or starting subscription pricing.
 4. **Submit a Pull Request** with a brief summary of the changes.
 
 ---
