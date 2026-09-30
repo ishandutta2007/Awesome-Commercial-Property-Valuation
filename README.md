@@ -45,7 +45,7 @@ Commercial property valuation software enables appraisers, commercial real estat
 
 ## 🔓 Open-Source GitHub Projects
 
-> **Stars_Count Benchmark:** Sorted by GitHub Stars_Count (Descending). Click any Stars_Badge to inspect the stargazers page! 🌟
+> **Stars_Count Benchmark:** Sorted by GitHub_Stars_Count (Descending). Click any Stars_Badge to inspect the stargazers page! 🌟
 
 ### 🛠️ DCF Modeling, AVM Engines, AI Agents & Data Standards
 
